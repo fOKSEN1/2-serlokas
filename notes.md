@@ -5,9 +5,9 @@
     - .gitignore
 - [ ] paviešinti projektą per github puslapį (gausim URL)
 - [ ] README.md 
-    Skirta aprašyti kas, ką ir kodėl daro.
-    Įterpti nuoroda į daromą dizainą
-    Įterpti nuorodą, kur tas mūsų kodas gali būti pamatytas.
+   - Skirta aprašyti kas, ką ir kodėl daro.
+   - Įterpti nuoroda į daromą dizainą
+   - Įterpti nuorodą, kur tas mūsų kodas gali būti pamatytas.
 - [ ] Atlikti dizaino analizę
 - [ ] Po dizaino alazinės surašyti HTML
 - [ ] Išsikirpti nuotraukas ir jas panaudoti (iškirpta tik reikiama nuotraukos dalis)
