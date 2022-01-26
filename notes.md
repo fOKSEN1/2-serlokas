@@ -1,6 +1,6 @@
 # Procesas
 
-- [x] pradinė failų struktūra
+- [ ] pradinė failų struktūra
     - index.html
     - .gitignore
 - [ ] paviešinti projektą per github puslapį (gausim URL)
