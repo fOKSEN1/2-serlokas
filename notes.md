@@ -1,6 +1,6 @@
 # Procesas
 
-- [ ] pradinė failų struktūra
+- [x] pradinė failų struktūra
     - index.html
     - .gitignore
 - [ ] paviešinti projektą per github puslapį (gausim URL)
@@ -19,7 +19,7 @@ Apie čia naudojama rašymo sintaksę (md - markdown) - https://guides.github.co
  
 # Paint.net naudojimas
 
-Magic wand - tolerance
-ctrl + i
-ctrl + shift + x
-ctrl + s
+1. Magic wand - tolerance
+2. ctrl + i
+3. ctrl + shift + x
+4. ctrl + s
