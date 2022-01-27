@@ -10,7 +10,7 @@
    - Įterpti nuorodą, kur tas mūsų kodas gali būti pamatytas.
 - [x] Atlikti dizaino analizę
 - [x] Po dizaino alazinės surašyti HTML
-- [ ] Išsikirpti nuotraukas ir jas panaudoti (iškirpta tik reikiama nuotraukos dalis)
+- [x] Išsikirpti nuotraukas ir jas panaudoti (iškirpta tik reikiama nuotraukos dalis)
     Panaudoti realiatyvius kelius
 - [ ] Aprašyti stilius
 
